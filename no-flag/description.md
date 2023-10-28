@@ -1,0 +1,1 @@
+This challenge can only be validated by an admin.
